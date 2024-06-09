@@ -1,0 +1,39 @@
+h1, h2 {
+    font-family: 'Pacifico', cursive;
+    color: #BE253f;
+    text-align: center;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    color: #484848;
+    font-size: 1em;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.container-card {
+    margin: auto;
+    width: 80%;
+    display: flex;
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    width: 50%;
+    padding: 20px;
+    margin: 20px;
+
+    overflow: hidden;
+}
+
+.card p {
+    word-wrap: break-word;
+}
