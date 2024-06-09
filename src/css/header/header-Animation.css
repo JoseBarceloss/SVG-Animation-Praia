@@ -1,0 +1,25 @@
+.verao-header {
+    fill: transparent;
+    animation: lett-preenchimento 0.5s ease-in-out forwards 3.5s;
+}
+
+@keyframes lett-preenchimento {
+    to {
+        fill: #be253f
+    }
+}
+
+.verao-header path {
+    stroke-width: 2px;
+    stroke: #be253f;
+    stroke-dasharray: 3000;
+    stroke-dashoffset: 3000;
+
+    animation: verao-tracado 5s ease-in-out forwards 1s;
+}
+
+@keyframes verao-tracado {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
