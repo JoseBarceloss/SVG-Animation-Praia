@@ -4,9 +4,13 @@ Este é um projeto simples para uma página web que celebra o verão e a praia. 
 
  Veja o projeto [aqui](https://josebarceloss.github.io/SVG-Animation-Praia/).
 
+ ---
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/37/d8/0e/37d80ee89ac7f038bc793680b0d5d4f4.gif" style="width: 1000px; height: 400px;">
+  <img src="https://i.pinimg.com/originals/37/d8/0e/37d80ee89ac7f038bc793680b0d5d4f4.gif" width="900" height="350"">
 </div>
+
+---
 
 ## Tecnologias Utilizadas
 
@@ -32,5 +36,5 @@ Para utilizar este projeto localmente, siga os passos abaixo:
 
 <div align="center">
     <h2> Obrigado por visitar o projeto. </h2>
-  <img src="https://i.pinimg.com/originals/24/8f/fb/248ffbc2344b59d4480412fe75749512.gif" style="width: 400px; height: auto;">
+  <img src="https://i.pinimg.com/originals/24/8f/fb/248ffbc2344b59d4480412fe75749512.gif" width="450" height="auto"">
 </div>
