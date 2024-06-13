@@ -1,5 +1,6 @@
 import { Cards } from './card.js';
 import { Icones } from './icons.js'
+import { Footer } from './footer.js';
 
 // Função que chama a animação dos cards
 window.onload = () => {
@@ -9,5 +10,8 @@ window.onload = () => {
 
     const icones = new Icones();
     icones.animaIcones();
+
+    const footer = new Footer();
+    footer.efeitoOnda();
 };
 
