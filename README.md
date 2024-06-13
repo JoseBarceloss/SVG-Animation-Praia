@@ -2,10 +2,11 @@
 
 Este é um projeto simples para uma página web que celebra o verão e a praia. Utiliza HTML, CSS e JavaScript para criar uma página interativa.
 
+ Veja o projeto [aqui](https://josebarceloss.github.io/SVG-Animation-Praia/).
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/37/d8/0e/37d80ee89ac7f038bc793680b0d5d4f4.gif" style="width: 1000px; height: 400px;">
 </div>
-
 
 ## Tecnologias Utilizadas
 
