@@ -1,0 +1,1 @@
+Tive que colocar na Raiz do projeto para poder colocar o site no ar!
