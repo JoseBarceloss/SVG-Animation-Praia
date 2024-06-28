@@ -1,6 +1,6 @@
 # SVG - Praia 
 
-Este é um projeto simples para uma página web que celebra o verão e a praia. Utiliza HTML, CSS e JavaScript para criar uma página interativa.
+um projeto simples para uma página web que celebra o verão e a praia. Utiliza HTML, CSS e JavaScript para criar uma página interativa.
 
  Veja o projeto [aqui](https://josebarceloss.github.io/SVG-Animation-Praia/).
 
