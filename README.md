@@ -7,7 +7,7 @@ um projeto simples para uma página web que celebra o verão e a praia. Utiliza 
  ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/37/d8/0e/37d80ee89ac7f038bc793680b0d5d4f4.gif" width="900" height="350"">
+  <img src="https://i.pinimg.com/originals/37/d8/0e/37d80ee89ac7f038bc793680b0d5d4f4.gif" width="850" height="300"">
 </div>
 
 ---
